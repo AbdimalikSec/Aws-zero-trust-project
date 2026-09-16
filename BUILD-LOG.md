@@ -1,6 +1,6 @@
 # BUILD-LOG  Zero Trust Remote Access Gateway on AWS
 
-**What was built, how, and why every piece exists.** For the plain-language, analogy-driven walkthrough of how everything connects, read **[CONCEPTS.md](CONCEPTS.md)** first or alongside this  it's the companion piece
+**What was built, how, and why every piece exists.** For the plain-language, analogy-driven walkthrough of how everything connects
 
 Region: `us-east-1` · Built entirely through the AWS Console · Domain: `sinosomtechnology.qzz.io`
 
@@ -14,8 +14,6 @@ This isn't the checklist  that's the plan document. This is the explanation, in 
 4. The build, in order, with the reasoning behind every non-obvious choice
 5. The bug  one genuine failure, documented in full
 6. Proof, cost, limitations, glossary
-
----
 
 # PART 1  The problem
 

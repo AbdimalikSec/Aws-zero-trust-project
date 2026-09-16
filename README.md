@@ -35,4 +35,4 @@ A user who was in the correct group, against an endpoint policy that named exact
 
 ## Full write-up
 
-Every component explained from zero, every decision and why it was made, the full debugging narrative, the evidence and what each piece proves, cost model, and honest limitations: **[BUILD-LOG.md](BUILD-LOG.md)**
+Every component explained from zero, every decision and why it was made, the full debugging narrative, the evidence and what each piece proves, cost model, and honest limitations: **[BUILD-LOG.md](../zero%20trust%20aws/BUILD-LOG.md)**
